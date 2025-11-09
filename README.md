@@ -40,8 +40,8 @@
 
 - [LMS-E](https://github.com/sahilk-dev/LMS-E):
   - MERN LMS with authentication, course enrollment, payments, admin dashboard, & Tailwind CSS UI
-- [lms-full-stack](https://github.com/sahilk-dev/lms-full-stack):
-  - Full Stack LMS with educator/student dashboards and Stripe payment
+- [lmagify](https://github.com/sahilk-dev/Imagify):
+  - A Full Stack Text to Image Generator AI SaaS App Using React JS | MERN Project
 - [Backend--vidtube](https://github.com/sahilk-dev/Backend--vidtube):
   - REST API backend for YouTube-style video platform
 - [learning-react-course](https://github.com/sahilk-dev/learning-react-course):
