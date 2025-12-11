@@ -54,9 +54,6 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilk-dev&show_icons=true&theme=radical&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilk-dev&layout=compact&theme=radical" height="170"/>
-  <!-- <img src="https://github-profile-trophy.vercel.app/?username=sahilk-dev&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" height="120"/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilk-dev&theme=radical" height="170"/>
 </p>
 
