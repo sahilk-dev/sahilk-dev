@@ -53,9 +53,37 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilk-dev&theme=radical" height="170"/>
-</p>
+## 📊 GitHub Stats
+
+<table align="center">
+  <tr>
+    <td>
+      <!-- GitHub Stats -->
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=sahilk-dev&show_icons=true&theme=radical&count_private=true"
+        alt="Sahil Kamila's GitHub Stats"
+      />
+    </td>
+    <td>
+      <!-- Contribution / Activity Graph -->
+      <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=sahilk-dev&theme=dracula"
+        alt="Sahil Kamila's Contribution Graph"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <!-- Most Used Languages -->
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilk-dev&layout=compact&theme=radical"
+        alt="Most Used Languages"
+      />
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 
